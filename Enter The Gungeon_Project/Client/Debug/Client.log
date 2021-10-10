@@ -1,0 +1,164 @@
+﻿  stdafx.cpp
+  AngleBullet.cpp
+  Bird.cpp
+  BirdState.cpp
+  Bmp.cpp
+  BmpMgr.cpp
+  Boom.cpp
+  Boss.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Boss.cpp(85,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Boss.cpp(86,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Boss.cpp(87,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Boss.cpp(88,39): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BossState.cpp
+  Box.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Box.cpp(52,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Box.cpp(52,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+  Chargegun.cpp
+  Client.cpp
+  COllisionMgr.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(14,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(15,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(377,32): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(377,32): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(377,54): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(377,54): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(386,30): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(390,15): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(391,15): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(443,12): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(444,12): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(469,35): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(469,35): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(469,60): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(469,60): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(477,34): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(477,34): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(477,58): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(477,58): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(488,34): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(488,34): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(488,59): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(488,59): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(551,33): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(551,33): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(551,57): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(551,57): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(627,21): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(627,21): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(627,33): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(627,33): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\COllisionMgr.cpp(635,29): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  Desk.cpp
+  Door.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.h(16,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.h(17,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.cpp(97,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.cpp(97,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.cpp(101,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.cpp(101,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dreadshot.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Dreadshot.cpp(40,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Dreadshot.cpp(40,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Effect.cpp
+  EffectMgr.cpp
+  Ending.cpp
+  ETGBoss.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ETGEdit.cpp
+  ETGMenu.cpp
+  ETGStage.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.h(16,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.h(17,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(14,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(15,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\ETGStage.cpp(338,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\ETGStage.cpp(338,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ground.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.h(16,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Door.h(17,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(14,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(15,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Ground.cpp(45,36): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Ground.cpp(45,36): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Ground.cpp(45,63): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Ground.cpp(45,63): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GuideBullet.cpp
+  Gun.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Gun.cpp(347,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Gun.cpp(347,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Intro.cpp
+  KeyMgr.cpp
+  Logo.cpp
+  MainGame.cpp
+  Monster.cpp
+  MonsterInit.cpp
+  MonsterState.cpp
+  Mouse.cpp
+  Obj.cpp
+  ObjMgr.cpp
+  Player.cpp
+  PlayerState.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\PlayerState.cpp(75,118): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Radialbullet.cpp
+  Razer.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Razerbullet.cpp
+  RifleMonster.cpp
+  RifleMonsterState.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+  Shield.cpp
+  Shop.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(120,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(120,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(127,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(127,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(126,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(126,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(137,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(137,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(139,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(139,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(141,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(141,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(143,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Shop.cpp(143,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shotgun.cpp
+  SoundMgr.cpp
+  Teleport.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(14,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.h(15,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.cpp(16,96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.cpp(16,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.cpp(42,58): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.cpp(43,57): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.cpp(60,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Teleport.cpp(60,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(18,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(18,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(19,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(19,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(20,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(20,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(21,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(21,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(22,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(22,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(62,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\Tile.cpp(62,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TileMgr.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\TileMgr.cpp(91,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\TileMgr.cpp(90,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UiMgr.cpp
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\UiMgr.cpp(158,157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Client\UiMgr.cpp(158,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Wizard.cpp
+  WizardState.cpp
+  코드를 생성하고 있습니다...
+  Client.vcxproj -> C:\Users\kduck\OneDrive\바탕 화면\Portfolio\EnterTheGungeon\EnterTheGungeon\Enter The Gungeon_Project\Debug\Client.exe
